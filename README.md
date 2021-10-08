@@ -1,4 +1,4 @@
-## SSD FTL 演算法中的 page level mapping 模擬練習
+## SSD FTL 演算法中的 page level mapping 概念模擬
  
 #### 包含 :
 
